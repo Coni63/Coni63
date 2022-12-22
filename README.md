@@ -15,7 +15,7 @@
 - 🌱 I'm currently working on improving my skills in React.
 -  📝I regularly practice **competitive programming** on <a href="https://www.codingame.com/" target="blank">Codingame</a>
 - 💞️ I'm looking to collaborate on various projects
-- 📄 You want to know about my experiences ? Download my <a href="https://github.com/coni63" target="blank">Resume</a>
+- 📄 You want to know about my experiences ? Download my <a href="https://github.com/Coni63/Coni63/blob/main/CV_Nicolas_MINE.pdf" target="blank">Resume</a>
 <!-- - 🤝 I'm available for freelancing.-->
 <br/>
 
