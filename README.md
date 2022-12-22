@@ -14,9 +14,9 @@
 - 👀 I'm interested in Data Science and Development (applications or website) 
 - 🌱 I'm currently working on improving my skills in React.
 -  📝I regularly practice **competitive programming** on <a href="https://www.codingame.com/" target="blank">Codingame</a>
-- 🤝 I'm available for freelancing.
 - 💞️ I'm looking to collaborate on various projects
 - 📄 You want to know about my experiences ? Download my <a href="https://github.com/coni63" target="blank">Resume</a>
+<!-- - 🤝 I'm available for freelancing.-->
 <br/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -47,7 +47,7 @@
 <p align="center">
 <a href="https://github.com/coni63">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=coni63&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coni63&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coni63&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook,html,php"/>
 </a>
 </p>
 
