@@ -13,7 +13,7 @@
 - ✍️ I'm currently working in <a href="https://www.editus-business.lu/" target="blank">Editus</a> as Data Scientist.
 - 👀 I'm interested in Data Science and Development (applications or website) 
 - 🌱 I'm currently working on improving my skills in React.
--  📝I regularly practice **competitive programming** on <a href="https://www.codingame.com/" target="blank">Codingame</a>
+-  📝I regularly practice **competitive programming** on <a href="https://www.codingame.com/profile/de015f1a510d60cdcd0551896a34c709188072" target="blank">Codingame</a>
 - 💞️ I'm looking to collaborate on various projects
 - 📄 You want to know about my experiences ? Download my <a href="https://github.com/Coni63/Coni63/blob/main/CV_Nicolas_MINE.pdf" target="blank">Resume</a>
 <!-- - 🤝 I'm available for freelancing.-->
