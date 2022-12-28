@@ -55,11 +55,17 @@
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/nicolas-mine/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/coni63">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/8044652/nicolas-m">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-      </div>
+  <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/nicolas-mine/">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://github.com/coni63">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/8044652/nicolas-m">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.kaggle.com/coni57">
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/40/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo.png">
+  </a>
+ </div>
 </p>
