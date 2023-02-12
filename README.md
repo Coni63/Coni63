@@ -45,16 +45,29 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/coni63">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=coni63&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coni63&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook,html,php"/>
-</a>
+  <a href="https://github.com/coni63">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=coni63&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+      <img alt="light" src="https://github-readme-stats-eight-theta.vercel.app/api?username=coni63&show_icons=true&include_all_commits=true&count_private=true" />
+    </picture>
+  </a>
+  <a href="https://github.com/coni63">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coni63&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook,html,php" height="195px"/>
+      <img alt="light" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coni63&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook,html,php" height="195px"/>
+    </picture>
+  </a>
 </p>
 
 ### 👨🏻‍💻 &nbsp;Codingame Stats
 
 <p align="center">
-<img alt="CGstats" src="https://codingamereadmestats.pythonanywhere.com/api/details/de015f1a510d60cdcd0551896a34c709188072?first=leaderboard&second=puzzles&third=languages&top=3" width="830px" height="220px"/>
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://codingamereadmestats.pythonanywhere.com/api/details/de015f1a510d60cdcd0551896a34c709188072?first=leaderboard&second=puzzles&third=languages&top=3&night=1" width="830px" height="220px"/>
+  <img alt="CGstats" src="https://codingamereadmestats.pythonanywhere.com/api/details/de015f1a510d60cdcd0551896a34c709188072?first=leaderboard&second=puzzles&third=languages&top=3&night=0" width="830px" height="220px"/>
+</picture>
+  
 </p>
 
 ### 🤝🏻 &nbsp;Connect with me
