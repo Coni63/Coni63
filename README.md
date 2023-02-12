@@ -51,6 +51,12 @@
 </a>
 </p>
 
+### 👨🏻‍💻 &nbsp;Codingame Stats
+
+<p align="center">
+<img alt="CGstats" src="https://codingamereadmestats.pythonanywhere.com/api/details/de015f1a510d60cdcd0551896a34c709188072?first=leaderboard&second=puzzles&third=languages&top=3" width="830px" height="220px"/>
+</p>
+
 ### 🤝🏻 &nbsp;Connect with me
 
 <p align="center">
