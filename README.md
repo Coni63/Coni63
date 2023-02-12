@@ -54,7 +54,7 @@
   <a href="https://github.com/coni63">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coni63&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook,html,php" height="195px"/>
-      <img alt="light" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coni63&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook,html,php" height="195px"/>
+      <img alt="light" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coni63&layout=compact&langs_count=8&hide=jupyter%20notebook,html,php" height="195px"/>
     </picture>
   </a>
 </p>
