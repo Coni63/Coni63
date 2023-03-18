@@ -59,6 +59,7 @@
   </a>
 </p>
 
+<!--
 ### 👨🏻‍💻 &nbsp;Codingame Stats
 
 <p align="center">
@@ -69,7 +70,7 @@
 </picture>
   
 </p>
-
+-->
 ### 🤝🏻 &nbsp;Connect with me
 
 <p align="center">
