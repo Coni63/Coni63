@@ -3,45 +3,36 @@
 
 <hr>
 
-
 ### 👨🏻‍💻 &nbsp;About me
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- ✍️ I'm currently working in <a href="https://www.editus-business.lu/" target="blank">Editus</a> as Data Scientist.
-- 👀 I'm interested in Data Science and Development (applications or website) 
-- 🌱 I'm currently working on improving my skills in React.
--  📝I regularly practice **competitive programming** on <a href="https://www.codingame.com/profile/de015f1a510d60cdcd0551896a34c709188072" target="blank">Codingame</a>
+- ✍️ I'm currently working in <a href="https://www.pictet.com/" target="blank">Pictet Group</a> as Tech Lead.
+- 👀 I'm interested in Data Science and Development (applications or website)
+- 🌱 I'm currently working on improving my skills in Rust.
+- 📝I regularly practice **competitive programming** on <a href="https://www.codingame.com/profile/de015f1a510d60cdcd0551896a34c709188072" target="blank">Codingame</a>
 - 💞️ I'm looking to collaborate on various projects
 - 📄 You want to know about my experiences ? Download my <a href="https://github.com/Coni63/Coni63/blob/main/CV_Nicolas_MINE.pdf" target="blank">Resume</a>
-<!-- - 🤝 I'm available for freelancing.-->
-<br/>
+  <!-- - 🤝 I'm available for freelancing.-->
+  <br/>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Rust](https://img.shields.io/badge/-rust-05122A?style=flat&logo=rust)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=Csharp&logoColor=ba5bd2)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=d6002e)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=ffffff)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastApi-05122A?style=flat&logo=fastapi)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<!--
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
--->
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -59,18 +50,6 @@
   </a>
 </p>
 
-<!--
-### 👨🏻‍💻 &nbsp;Codingame Stats
-
-<p align="center">
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://codingamereadmestats.pythonanywhere.com/api/details/de015f1a510d60cdcd0551896a34c709188072?first=leaderboard&second=puzzles&third=languages&top=3&night=1" width="830px" height="220px"/>
-  <img alt="CGstats" src="https://codingamereadmestats.pythonanywhere.com/api/details/de015f1a510d60cdcd0551896a34c709188072?first=leaderboard&second=puzzles&third=languages&top=3&night=0" width="830px" height="220px"/>
-</picture>
-  
-</p>
--->
 ### 🤝🏻 &nbsp;Connect with me
 
 <p align="center">
